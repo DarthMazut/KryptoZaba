@@ -1,0 +1,16 @@
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\bin\Debug\KryptoZaba.exe.config
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\bin\Debug\KryptoZaba.exe
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\bin\Debug\KryptoZaba.pdb
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\MainWindow.g.cs
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\App.g.cs
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba_MarkupCompile.cache
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba_MarkupCompile.lref
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\MainWindow.baml
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.g.resources
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.Properties.Resources.resources
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.csproj.GenerateResource.Cache
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.exe
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.pdb
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\KryptoZaba.csprojResolveAssemblyReference.cache
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\VigenerePerforming.g.cs
+C:\Users\Alien\Desktop\C++\visual MS\nowy1\KryptoZaba\obj\Debug\VigenerePerforming.baml

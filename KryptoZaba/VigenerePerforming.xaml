@@ -1,0 +1,24 @@
+﻿<Window x:Class="KryptoZaba.VigenerePerforming"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KryptoZaba"
+        mc:Ignorable="d"
+        Title="Łamanie szyfru Vigener'a" Height="240" Width="450" ResizeMode="NoResize" Topmost="True" Closing="Window_Closing" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="25" />
+            <RowDefinition Height="50" />
+        </Grid.RowDefinitions>
+        
+        <TextBlock Text="Łamanie szyfru Vigener'a:" FontSize="20" Margin="0,15,0,0" HorizontalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Text="To może troche potrwać..." FontSize="11" HorizontalAlignment="Center" Margin="0,5,0,0"/>
+        <ProgressBar Name="xe_PBar" Grid.Row="2" Width="400" Height="30" HorizontalAlignment="Center" VerticalAlignment="Center" IsIndeterminate="True"/>
+        <TextBlock Name="xe_TextBlock_Iteracja" Grid.Row="3" Text="Bieżąca iteracja:" FontSize="14" HorizontalAlignment="Center"/>
+        <Button Name="xe_ButtonCancel" Content="Anuluj" Grid.Row="4" Width="100" Height="25" HorizontalAlignment="Center" VerticalAlignment="Center" Click="em_Cancel_OnClick"/>
+    </Grid>
+</Window>
